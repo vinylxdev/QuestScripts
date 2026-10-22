@@ -13,7 +13,7 @@ Developer Mode and USB debugging is needed.
 Used to disable or enable the proximity sensor, changes are temporary (I wish Meta would allow this to be permanent :[)
 
 Usage:
-`./quest-proximity.sh on|off [IP:port]`
+`./quest-proximity.sh on|off [IP:port]` or `.cmd` on Windows.
 
 A USB connection is required if no IP or port is provided.
 
